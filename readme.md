@@ -1,23 +1,14 @@
-// ...existing code...
-# Hola — Soy [Tu Nombre]
+# Hola — Soy Jhon Jumbo.
 
-Desarrollador/a de software enfocado/a en crear soluciones limpias y escalables. Me interesa el desarrollo full‑stack, la automatización y el software orientado a impacto.
-
+Estudiante de Ing. de Software en la Universidad Técnica de Ambato.
 ## Sobre mí
-- Rol: Desarrollador/a full‑stack / Ingeniero/a de software
-- Intereses: APIs, DevOps, Open Source, IA aplicada
+- Rol: Estudiante de 4to semestre
+- Intereses: FrontEnd
 
 ## Tecnologías
-- Lenguajes: JavaScript, TypeScript, Python
+- Lenguajes: JavaScript, php, y aprendiendo python
 - Herramientas: Node.js, React, Docker, Git, CI/CD
 
-## Proyectos destacados
-- Proyecto A — breve descripción y enlace.
-- Proyecto B — breve descripción y enlace.
-
 ## Cómo contactarme
-- Email: tu@ejemplo.com
-- GitHub: https://github.com/tu-usuario
-
-## Objetivos
-Contribuir a proyectos open source, aprender nuevas tecnologías y resolver problemas reales con software bien diseñado.
+- Email: shinjilouch@gmail.com
+- GitHub: https://github.com/JumboJhon04
